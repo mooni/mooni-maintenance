@@ -16,7 +16,11 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Mooni is under maintenance. We will be back soon !
+          Mooni development have been stopped. <br/>
+          If you are looking for a good On/Off ramp service, we highly suggest you to try :<br/><br/>
+          <a href="https://mtpelerin.com/" style={{color: '#35383a'}}>
+          <img src="https://www.mtpelerin.com/images/logo.svg" width={200}/>
+          </a>
         </p>
       </main>
     </div>
